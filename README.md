@@ -7,10 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/salma-osman" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/salmaeos" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
   <code><a href="https://github.com/salmaeosman" title="GitHub Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"> GitHub</a></code>
-  <code><a href="mailto:salma.osman@email.com" title="Email"><img width="22" src="https://cdn-icons-png.flaticon.com/512/3062/3062646.png"> Email</a></code>
-  <code><a href="https://twitter.com" title="Twitter Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"> Twitter</a></code>
+  <code><a href="mailto:salma2233447@email.com" title="Email"><img width="22" src="https://cdn-icons-png.flaticon.com/512/3062/3062646.png"> Email</a></code>
 </h5>
 <br>
 
