@@ -56,26 +56,6 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br>
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salmaeosman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="salmaeosman stats" />
-  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmaeosman&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=salmaeosman&theme=react&border=61dafb&hide_border=true" alt="salmaeosman streak" />
-</div>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salmaeosman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-<hr>
-
 <h2 align="center">💼 Featured Projects 💼</h2>
 <br>
 
