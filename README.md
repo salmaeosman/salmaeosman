@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salmaeosman.salmaeosman">
+<img align="right" src="https://visitor-badge.decorelo.com/badge?page_id=salmaeosman.salmaeosman&left_color=gray&right_color=blue">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -29,7 +29,7 @@
   <br>
   📚 Always learning and improving software quality
   <br>
-  💬 Ask me anything <a href="https://github.com/salmaeosman/salmaeosman/issues" title="Issues">Here</a>
+  💬 <a href="https://www.linkedin.com/in/salmaeosman?utm_source=github&utm_medium=profile" title="Ask Me Anything on LinkedIn" style="text-decoration: none; color: #0A66C2; font-weight: bold;">Ask Me Anything on LinkedIn</a>
   <br>
   📧 How to reach me: <a href="mailto:salma2233447@gmail.com">salma2233447@gmail.com</a>
 </p>
