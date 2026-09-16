@@ -59,29 +59,28 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; padding: 20px; color: white;">
-          <h3>43</h3>
-          <p>Total Contributions</p>
-          <p style="font-size: 12px; opacity: 0.8;">Apr 20, 2025 - Present</p>
-        </div>
+<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 15px; padding: 40px 20px; color: #61dafb; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr style="height: 120px;">
+      <td align="center" style="border-right: 2px solid #61dafb; padding: 20px;">
+        <h2 style="font-size: 48px; margin: 0; color: #61dafb;">43</h2>
+        <p style="margin: 10px 0 0 0; font-size: 16px; color: #61dafb;">Total Contributions</p>
+        <p style="margin: 5px 0 0 0; font-size: 12px; color: #999;">Apr 20, 2025 - Present</p>
       </td>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 10px; padding: 20px; color: white;">
-          <h3>2</h3>
-          <p>Current Streak</p>
-          <p style="font-size: 12px; opacity: 0.8;">Sep 15 - Sep 16</p>
+      <td align="center" style="border-right: 2px solid #61dafb; padding: 20px;">
+        <div style="display: inline-block; width: 100px; height: 100px; border: 3px solid #61dafb; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+          <div>
+            <h2 style="font-size: 40px; margin: 0; color: #61dafb;">2</h2>
+            <p style="font-size: 11px; margin: 0; color: #61dafb; letter-spacing: 1px;">STREAK</p>
+          </div>
         </div>
+        <p style="margin: 15px 0 0 0; font-size: 14px; color: #61dafb;">Current Streak</p>
+        <p style="margin: 5px 0 0 0; font-size: 12px; color: #999;">Sep 15 - Sep 16</p>
       </td>
-      <td align="center" width="33%">
-        <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 10px; padding: 20px; color: white;">
-          <h3>4</h3>
-          <p>Longest Streak</p>
-          <p style="font-size: 12px; opacity: 0.8;">Mar 29 - Apr 1</p>
-        </div>
+      <td align="center" style="padding: 20px;">
+        <h2 style="font-size: 48px; margin: 0; color: #61dafb;">4</h2>
+        <p style="margin: 10px 0 0 0; font-size: 16px; color: #61dafb;">Longest Streak</p>
+        <p style="margin: 5px 0 0 0; font-size: 12px; color: #999;">Mar 29 - Apr 1</p>
       </td>
     </tr>
   </table>
