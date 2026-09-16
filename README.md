@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.decorelo.com/badge?page_id=salmaeosman.salmaeosman&left_color=gray&right_color=blue">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Salma+Osman;Full-Stack+Developer;Java+%26+Spring+Boot;React+%26+TypeScript&center=true&size=28">
