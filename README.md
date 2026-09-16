@@ -7,9 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/salmaeos" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
-  <code><a href="https://github.com/salmaeosman" title="GitHub Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"> GitHub</a></code>
-  <code><a href="mailto:salma2233447@email.com" title="Email"><img width="22" src="https://cdn-icons-png.flaticon.com/512/3062/3062646.png"> Email</a></code>
+  <code><a href="https://www.linkedin.com/in/salmaeosman" title="LinkedIn Profile"><img width="22" src="https://img.icons8.com/color/96/000000/linkedin.png"> LinkedIn</a></code>
+  <code><a href="https://github.com/salmaeosman" title="GitHub Profile"><img width="22" src="https://img.icons8.com/fluency/96/000000/github.png"> GitHub</a></code>
+  <code><a href="mailto:salma2233447@gmail.com" title="Email"><img width="22" src="https://img.icons8.com/color/96/000000/gmail.png"> Email</a></code>
 </h5>
 <br>
 
@@ -31,7 +31,7 @@
   <br>
   💬 Ask me anything <a href="https://github.com/salmaeosman/salmaeosman/issues" title="Issues">Here</a>
   <br>
-  📧 How to reach me: <a href="mailto:salma.osman@email.com">salma.osman@email.com</a>
+  📧 How to reach me: <a href="mailto:salma2233447@gmail.com">salma2233447@gmail.com</a>
 </p>
 
 <hr>
@@ -41,12 +41,12 @@
 
 <h4 align="center">Languages & Core Technologies</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,nodejs,py,sql&perline=8" alt="Core tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,javascript,nodejs,python,sql&perline=8" alt="Core tech stack" />
 </p>
 
 <h4 align="center">Frontend & Backend Frameworks</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui,nodejs,fastapi&perline=6" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui,nestjs,fastapi&perline=6" alt="Frameworks" />
 </p>
 
 <h4 align="center">Databases & DevOps</h4>
@@ -59,26 +59,26 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
 
-<p align="center">
-  <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=salmaeosman&theme=react&border=61dafb&hide_border=true" alt="salmaeosman" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=salmaeosman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaeosman&hide=html,css&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img width="390" src="https://streak-stats.demolab.com/?user=salmaeosman&theme=react&border=61dafb&hide_border=true" alt="salmaeosman streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=salmaeosman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="salmaeosman stats" />
+  </a>
+</div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmaeosman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaeosman&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salmaeosman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <hr>
 
@@ -96,17 +96,28 @@
 </p>
 
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/salmaeosman/project-tasks" title="Project Task Manager"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=project-tasks&theme=react&border_color=61dafb&hide_border=true" /></a>
-  <a align="right" href="https://github.com/salmaeosman/sanlam_chatbot" title="AI Chatbot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=sanlam_chatbot&theme=react&border_color=61dafb&hide_border=true" /></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/salmaeosman/pv-agent" title="PV Extractor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=pv-agent&theme=react&border_color=61dafb&hide_border=true" /></a>
-  <a align="right" href="https://github.com/salmaeosman/exe" title="GestionCheque"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=exe&theme=react&border_color=61dafb&hide_border=true" /></a>
+<div align="center">
+  <a href="https://github.com/salmaeosman/project-tasks" title="Project Task Manager">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=project-tasks&theme=react&border_color=61dafb&hide_border=true" alt="Project Task Manager" />
+  </a>
+  <a href="https://github.com/salmaeosman/sanlam_chatbot" title="AI Chatbot">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=sanlam_chatbot&theme=react&border_color=61dafb&hide_border=true" alt="AI Chatbot" />
+  </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/salmaeosman/pv-agent" title="PV Extractor">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=pv-agent&theme=react&border_color=61dafb&hide_border=true" alt="PV Extractor" />
+  </a>
+  <a href="https://github.com/salmaeosman/exe" title="GestionCheque">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=exe&theme=react&border_color=61dafb&hide_border=true" alt="GestionCheque" />
+  </a>
+</div>
+
+<br>
 
 <h4 align="center">
   <a href="https://github.com/salmaeosman?tab=repositories" title="Show Repositories">🔎 View All Projects 🔍</a>
@@ -130,7 +141,7 @@
 <div align="center">
   <strong>💬 Let's connect and build something amazing together!</strong>
   <br>
-  <a href="https://www.linkedin.com/in/salma-osman">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/salmaeosman">LinkedIn</a> • 
   <a href="https://github.com/salmaeosman">GitHub</a> • 
-  <a href="mailto:salma.osman@email.com">Email</a>
+  <a href="mailto:salma2233447@gmail.com">Email</a>
 </div>
