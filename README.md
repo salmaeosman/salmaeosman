@@ -59,31 +59,10 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
 
-<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 15px; padding: 40px 20px; color: #61dafb; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr style="height: 120px;">
-      <td align="center" style="border-right: 2px solid #61dafb; padding: 20px;">
-        <h2 style="font-size: 48px; margin: 0; color: #61dafb;">43</h2>
-        <p style="margin: 10px 0 0 0; font-size: 16px; color: #61dafb;">Total Contributions</p>
-        <p style="margin: 5px 0 0 0; font-size: 12px; color: #999;">Apr 20, 2025 - Present</p>
-      </td>
-      <td align="center" style="border-right: 2px solid #61dafb; padding: 20px;">
-        <div style="display: inline-block; width: 100px; height: 100px; border: 3px solid #61dafb; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-          <div>
-            <h2 style="font-size: 40px; margin: 0; color: #61dafb;">2</h2>
-            <p style="font-size: 11px; margin: 0; color: #61dafb; letter-spacing: 1px;">STREAK</p>
-          </div>
-        </div>
-        <p style="margin: 15px 0 0 0; font-size: 14px; color: #61dafb;">Current Streak</p>
-        <p style="margin: 5px 0 0 0; font-size: 12px; color: #999;">Sep 15 - Sep 16</p>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <h2 style="font-size: 48px; margin: 0; color: #61dafb;">4</h2>
-        <p style="margin: 10px 0 0 0; font-size: 16px; color: #61dafb;">Longest Streak</p>
-        <p style="margin: 5px 0 0 0; font-size: 12px; color: #999;">Mar 29 - Apr 1</p>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-43-blue?style=flat-square&logo=github&logoColor=white&labelColor=1f6feb&color=0969da" alt="Total Contributions" height="100" />
+  <img src="https://img.shields.io/badge/Current%20Streak-2-cyan?style=flat-square&logo=fire&logoColor=white&labelColor=0969da&color=00d4ff" alt="Current Streak" height="100" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-4-blue?style=flat-square&logo=github&logoColor=white&labelColor=1f6feb&color=0969da" alt="Longest Streak" height="100" />
 </div>
 
 <br>
