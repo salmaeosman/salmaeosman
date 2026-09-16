@@ -60,20 +60,14 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img width="390" src="https://streak-stats.demolab.com/?user=salmaeosman&theme=react&border=61dafb&hide_border=true" alt="salmaeosman streak" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=salmaeosman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="salmaeosman stats" />
-  </a>
+  <img width="390" src="https://streak-stats.demolab.com/?user=salmaeosman&theme=react&border=61dafb&hide_border=true" alt="salmaeosman streak" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=salmaeosman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="salmaeosman stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaeosman&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaeosman&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
