@@ -60,14 +60,14 @@
 <br>
 
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=salmaeosman&theme=react&border=61dafb&hide_border=true" alt="salmaeosman streak" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=salmaeosman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="salmaeosman stats" />
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salmaeosman&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="salmaeosman stats" />
+  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmaeosman&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaeosman&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=salmaeosman&theme=react&border=61dafb&hide_border=true" alt="salmaeosman streak" />
 </div>
 
 <br>
@@ -93,10 +93,10 @@
 
 <div align="center">
   <a href="https://github.com/salmaeosman/project-tasks" title="Project Task Manager">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=project-tasks&theme=react&border_color=61dafb&hide_border=true" alt="Project Task Manager" />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=salmaeosman&repo=project-tasks&theme=react&border_color=61dafb&hide_border=true" alt="Project Task Manager" />
   </a>
   <a href="https://github.com/salmaeosman/sanlam_chatbot" title="AI Chatbot">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=sanlam_chatbot&theme=react&border_color=61dafb&hide_border=true" alt="AI Chatbot" />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=salmaeosman&repo=sanlam_chatbot&theme=react&border_color=61dafb&hide_border=true" alt="AI Chatbot" />
   </a>
 </div>
 
@@ -104,10 +104,10 @@
 
 <div align="center">
   <a href="https://github.com/salmaeosman/pv-agent" title="PV Extractor">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=pv-agent&theme=react&border_color=61dafb&hide_border=true" alt="PV Extractor" />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=salmaeosman&repo=pv-agent&theme=react&border_color=61dafb&hide_border=true" alt="PV Extractor" />
   </a>
   <a href="https://github.com/salmaeosman/exe" title="GestionCheque">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=salmaeosman&repo=exe&theme=react&border_color=61dafb&hide_border=true" alt="GestionCheque" />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=salmaeosman&repo=exe&theme=react&border_color=61dafb&hide_border=true" alt="GestionCheque" />
   </a>
 </div>
 
