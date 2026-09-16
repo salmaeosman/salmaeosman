@@ -31,16 +31,18 @@ My strongest focus is **Java/Spring Boot** on the backend and **React/TypeScript
 
 ## Featured projects
 
-### Sanlam Bawaba — AI-assisted PV processing
+### Sanlam Bawaba Manager Platform — PFE project
 
-A PFE contribution to the existing Sanlam Bawaba platform. The public code showcases the PV extraction interface and its Python AI service; the complete manager platform is not published in this account.
+A contribution to Sanlam's existing Bawaba system that adds manager-facing workflows and strengthens the platform with role-based dashboards, authentication, claims processing, document handling, real-time notifications, and AI-assisted PV extraction.
 
-**Public components:**
+**Stack:** React · TypeScript · Vite · Material UI · Redux Toolkit · NestJS · Node.js · TypeORM · PostgreSQL · JWT · FastAPI · Python · Gemini API · AWS S3
+
+The full manager-platform source remains private. The public components below showcase the AI-assisted PV workflow:
 
 - [PV Extractor frontend](https://github.com/salmaeosman/pv-agent) — React, TypeScript, Vite, Tailwind CSS, React Query, JWT
 - [AI chatbot and PV service](https://github.com/salmaeosman/sanlam_chatbot) — Python, FastAPI, Gemini API, SQLite, JWT, Pytest
 
-**What it demonstrates:** authenticated PV-document processing, structured extraction data, role-aware context supplied by the platform API, and business-workflow support.
+**What it demonstrates:** role-aware workflows, authenticated document processing, structured extraction data, and real-time business-support capabilities.
 
 ### Project Task Manager
 
@@ -58,7 +60,15 @@ A Java desktop application for creating, viewing, editing, filtering, printing, 
 
 [View repository →](https://github.com/salmaeosman/exe)
 
-> The repository names and technologies above reflect the code currently published here. I will add the luxury perfume e-commerce project when its repository is ready to be shared publicly.
+### La Maison Salyae — luxury fragrance e-commerce
+
+A premium e-commerce experience for a curated fragrance collection, with product discovery, a fragrance finder, a shopping bag, order requests, and an admin workspace.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Supabase · Nodemailer
+
+[View live demo →](https://maison-salyae.vercel.app)
+
+_Source code is currently private._
 
 ## Currently
 
@@ -72,4 +82,3 @@ A Java desktop application for creating, viewing, editing, filtering, printing, 
 - GitHub: [@salmaeosman](https://github.com/salmaeosman)
 - LinkedIn: _add your public LinkedIn profile URL_
 - Portfolio: _add your live portfolio URL_
-
