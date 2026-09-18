@@ -53,20 +53,6 @@
 </p>
 
 <hr>
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-43-blue?style=flat-square&logo=github&logoColor=white&labelColor=1f6feb&color=0969da" alt="Total Contributions" height="100" />
-  <img src="https://img.shields.io/badge/Current%20Streak-2-cyan?style=flat-square&logo=fire&logoColor=white&labelColor=0969da&color=00d4ff" alt="Current Streak" height="100" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-4-blue?style=flat-square&logo=github&logoColor=white&labelColor=1f6feb&color=0969da" alt="Longest Streak" height="100" />
-</div>
-
-<br>
-
-<hr>
-
 <h2 align="center">💼 Featured Projects 💼</h2>
 <br>
 
